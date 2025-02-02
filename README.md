@@ -13,7 +13,7 @@ User-Friendly Interface: Simple upload, processing, and interaction through Stre
 # Getting Started
 ### Pre Requisites 
 - Python 3.9+  
-Install required libraries
-
-pip install -r requirements.txt
-
+- Install required Python libraries:
+  ```bash
+  pip install -r requirements.txt
+  
